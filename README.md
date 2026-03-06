@@ -155,6 +155,12 @@ Quick link titles are read from the SP DOM asynchronously. The styler retries at
 
 ---
 
+## 🙏 Credits
+
+Windows 95 icons used in this project were sourced from **[Alex Meub's Old Windows Icons](https://alexmeub.com/old-windows-icons/)** — a fantastic collection of classic Windows icon sets.
+
+---
+
 ## 📄 License
 
 MIT
