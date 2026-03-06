@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+lib/
+release/
+temp/
+sharepoint/solution/
+
+# SPFx local config (contains tenant URLs, credentials)
+config/local.json
+.yo-rc.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.user
