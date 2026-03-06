@@ -167,4 +167,4 @@ MIT
 
 ---
 
-*Built with ❤️ and nostalgia by [niacrisss](https://github.com/niacrisss)*
+*Built with ❤️ and nostalgia by [niacrisss](https://github.com/niacrisss) — [LinkedIn](https://www.linkedin.com/in/alexandr-abdulca-11690689/)*
